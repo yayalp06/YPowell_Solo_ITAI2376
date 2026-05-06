@@ -1,9 +1,5 @@
-# FitBot
-FitBot is an AI personal trainer prototype. It takes daily activity data like steps, active minutes, and sedentary minutes, predicts calories burned, and recommends workouts based on the user’s goal, equipment, experience level, and limitations. I designed it to work even without an API key, but it is also ready to connect to LangChain 
-FitBot LangChain AI Agent
-
-
-FitBot is a Retrieval-Augmented Generation (RAG) AI fitness assistant that provides personalized workout and wellness recommendations using LangChain, ChromaDB, and large language models.
+# FitBot (Solo Project)
+FitBot is a Retrieval-Augmented Generation (RAG) AI fitness assistant that provides personalized workout and wellness recommendations using LangChain, ChromaDB, and large language models. FitBot takes daily activity data like steps, active minutes, and sedentary minutes, predicts calories burned, and recommends workouts based on the user’s goal, equipment, experience level, and limitations. I designed it to work even without an API key, but it is also ready to connect to LangChain
 
 ---
 
@@ -49,7 +45,7 @@ FitBot uses Retrieval-Augmented Generation (RAG) to retrieve relevant fitness kn
 - HuggingFace Embeddings
 - OpenAI API
 - Sentence Transformers
-- Jupyter Notebook
+- Colab
 - Gradio
 - Retrieval-Augmented Generation (RAG)
 
@@ -60,5 +56,5 @@ FitBot uses Retrieval-Augmented Generation (RAG) to retrieve relevant fitness kn
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yayalp06/FitBot.git
+git clone https://github.com/yayalp06/FitBot
 

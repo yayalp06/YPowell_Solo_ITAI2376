@@ -60,5 +60,5 @@ FitBot uses Retrieval-Augmented Generation (RAG) to retrieve relevant fitness kn
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FitBot-RAG-AI-Agent.git
-cd FitBot-RAG-AI-Agent
+git clone https://github.com/yayalp06/FitBot.git
+
